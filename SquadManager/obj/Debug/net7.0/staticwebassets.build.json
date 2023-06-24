@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Rr7jq0HlNRP4XnVJbpLF4xJDEgGOoFEAQZvocQl9f1Y=",
+  "Hash": "GeCFlyus9exW35NztEqezkDVPU4uID9jE6P34n+xseg=",
   "Source": "SquadManager",
   "BasePath": "_content/SquadManager",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SquadManager.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\css\\login.css",
+      "SourceId": "SquadManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\",
+      "BasePath": "_content/SquadManager",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
       "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\css\\site.css",
