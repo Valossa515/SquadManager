@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "RcoPqZ+7yhypK3j8Ccok1WN2dXXcRcP+Wf0vlYs5w6yzRXiZ7oLtAWHHZxBRcLsDTyK9OI/iBLKQa4AGGofGLg==",
+  "dgSpecHash": "ZzbjQtf+cADa+Ehi0jCSy5Z6BuhPTDy787XB+d/w5nqkd4m6buhWmKcBPFD4vQdJZe1OPhamM07e7etvMBn52g==",
   "success": true,
   "projectFilePath": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\SquadManager.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fe_mm\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+    "C:\\Users\\fe_mm\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\fe_mm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }

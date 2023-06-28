@@ -1,0 +1,12 @@
+C:\Users\fe_mm\source\repos\SquadManager\Commun\bin\Debug\net7.0\Commun.deps.json
+C:\Users\fe_mm\source\repos\SquadManager\Commun\bin\Debug\net7.0\Commun.dll
+C:\Users\fe_mm\source\repos\SquadManager\Commun\bin\Debug\net7.0\Commun.pdb
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.csproj.AssemblyReference.cache
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.AssemblyInfoInputs.cache
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.AssemblyInfo.cs
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.csproj.CoreCompileInputs.cache
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.dll
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\refint\Commun.dll
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\Commun.pdb
+C:\Users\fe_mm\source\repos\SquadManager\Commun\obj\Debug\net7.0\ref\Commun.dll

@@ -1,0 +1,15 @@
+C:\Users\fe_mm\source\repos\SquadManager\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\fe_mm\source\repos\SquadManager\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\fe_mm\source\repos\SquadManager\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\fe_mm\source\repos\SquadManager\Repository\bin\Debug\net7.0\Commun.dll
+C:\Users\fe_mm\source\repos\SquadManager\Repository\bin\Debug\net7.0\Commun.pdb
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\fe_mm\source\repos\SquadManager\Repository\obj\Debug\net7.0\ref\Repository.dll

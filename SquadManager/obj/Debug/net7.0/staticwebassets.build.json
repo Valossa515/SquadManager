@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "GeCFlyus9exW35NztEqezkDVPU4uID9jE6P34n+xseg=",
+  "Hash": "rV2Y76HJdwSfLY+TXSdDdZRtGuUeCFgsybUE4k1VKxY=",
   "Source": "SquadManager",
   "BasePath": "_content/SquadManager",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\API\\API.csproj",
+      "Version": 2,
+      "Source": "API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "SquadManager\\wwwroot",

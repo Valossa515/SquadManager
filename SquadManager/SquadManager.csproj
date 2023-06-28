@@ -10,4 +10,9 @@
     <PackageReference Include="FluentValidation" Version="11.5.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\API\API.csproj" />
+    <ProjectReference Include="..\Commun\Commun.csproj" />
+  </ItemGroup>
+
 </Project>
