@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace SquadManager.Views.Login
 {
-    public class SignUpModel : PageModel
+    public class signupModel : PageModel
     {
         public void OnGet()
         {

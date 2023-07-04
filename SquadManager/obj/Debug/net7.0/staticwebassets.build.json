@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7bvJ6u15tgTSOLwWor8Rv1zzjkzdfL8cRoy/CfNuZDc=",
+  "Hash": "Xy7sstekP7uCAwO2IviKTh1BSKgqP8QGPEZ2tkAbAnE=",
   "Source": "SquadManager",
   "BasePath": "_content/SquadManager",
   "Mode": "Default",
@@ -114,12 +114,12 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\signUp.js",
       "SourceId": "SquadManager",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\",
       "BasePath": "_content/SquadManager",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/signUp.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\signUp.js"
     },
     {
       "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

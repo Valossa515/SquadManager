@@ -1,17 +1,23 @@
-﻿@{
+﻿﻿@{
     Layout = null;
-    ViewData["Title"] = "Criar Conta";
+    ViewData["Tittle"] = "Criar conta";
 }
 
 <link href="~/css/login.css" rel="stylesheet" />
 
 <section>
-    <h1>Crie sua conta aqui!</h1>
+    <h1>Crie sua conta de graça!</h1>
     <form>
-        <input placeholder="Username" />
-        <input placeholder="E-mail" />
-        <input placeholder="Senha" />
-        <input placeholder="Confirme sua senha" />
-        <button>Criar conta</button>
+        <input id="username" placeholder="Username" />
+        <input id="email" placeholder="E-mail" />
+        <input id="password" placeholder="Senha" />
+        <input id="confirmPassword" placeholder="Confirmar Senha" />
+        <button>Criar</button>
     </form>
 </section>
+
+<a href="~/lib/jquery/dist/jquery.min.map">~/lib/jquery/dist/jquery.min.map</a>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/signup.js"></script>
+
