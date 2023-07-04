@@ -11,11 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Applic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data", "3. Data", "{94F7CA0F-B5ED-4B95-B73F-301D3C71A780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{647121B2-875A-4D86-B6B5-5DA26CA42BF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{647121B2-875A-4D86-B6B5-5DA26CA42BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{8D9EC3B0-B448-4F81-8C80-3CE22FBF59F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{8D9EC3B0-B448-4F81-8C80-3CE22FBF59F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commun", "Commun\Commun.csproj", "{34F31AD7-8753-4602-915A-843919B0AE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Commun", "Commun\Commun.csproj", "{34F31AD7-8753-4602-915A-843919B0AE57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

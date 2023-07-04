@@ -35,5 +35,12 @@ namespace SquadManager.Controllers
             user.Email = "E-mail enviado!";
             return View("Index", user);
         }
+
+        public IActionResult SignUp()
+        {
+            return View();
+        }
     }
+
+   
 }
