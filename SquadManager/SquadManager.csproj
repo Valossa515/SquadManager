@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Commun\Commun.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Home\" />
+  </ItemGroup>
+
 </Project>
