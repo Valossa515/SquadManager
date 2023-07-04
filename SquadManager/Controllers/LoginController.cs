@@ -1,4 +1,5 @@
 ﻿using FluentValidation.Results;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using SquadManager.Models;
 using SquadManager.Validator;
