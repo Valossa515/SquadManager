@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xy7sstekP7uCAwO2IviKTh1BSKgqP8QGPEZ2tkAbAnE=",
+  "Hash": "Ki3/ATIXuN4568i+2DErTA+DiwifTI/M+J7jgrEUkec=",
   "Source": "SquadManager",
   "BasePath": "_content/SquadManager",
   "Mode": "Default",
@@ -95,6 +95,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\forgot.js",
+      "SourceId": "SquadManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\",
+      "BasePath": "_content/SquadManager",
+      "RelativePath": "js/forgot.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\forgot.js"
     },
     {
       "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\login.js",

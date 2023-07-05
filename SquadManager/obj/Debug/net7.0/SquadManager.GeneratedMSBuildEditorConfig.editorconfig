@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\fe_mm\source\repos\SquadManager\SquadManager
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/fe_mm/source/repos/SquadManager/SquadManager/Views/Login/forgot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cZm9yZ290LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fe_mm/source/repos/SquadManager/SquadManager/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

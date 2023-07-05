@@ -43,5 +43,11 @@ namespace API.Controllers
             else
                 return Ok(new { response = "ERROR" });
         }
+
+        [HttpPost("forgot")]
+        public IActionResult Forgot([FromBody] string email)
+        {
+            return Ok(new { response = "OK" });
+        }
     }
 }
