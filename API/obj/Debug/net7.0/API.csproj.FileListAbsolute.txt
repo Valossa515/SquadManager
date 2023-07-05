@@ -35,3 +35,6 @@ C:\Users\fe_mm\source\repos\SquadManager\API\obj\Debug\net7.0\refint\API.dll
 C:\Users\fe_mm\source\repos\SquadManager\API\obj\Debug\net7.0\API.pdb
 C:\Users\fe_mm\source\repos\SquadManager\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\fe_mm\source\repos\SquadManager\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\fe_mm\source\repos\SquadManager\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\fe_mm\source\repos\SquadManager\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\fe_mm\source\repos\SquadManager\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

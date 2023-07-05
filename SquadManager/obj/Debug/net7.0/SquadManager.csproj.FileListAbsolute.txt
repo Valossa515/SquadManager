@@ -46,3 +46,5 @@ C:\Users\fe_mm\source\repos\SquadManager\SquadManager\bin\Debug\net7.0\Commun.pd
 C:\Users\fe_mm\source\repos\SquadManager\SquadManager\bin\Debug\net7.0\Repository.pdb
 C:\Users\fe_mm\source\repos\SquadManager\SquadManager\obj\Debug\net7.0\SquadManager.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\fe_mm\source\repos\SquadManager\SquadManager\obj\Debug\net7.0\SquadManager.csproj.CopyComplete
+C:\Users\fe_mm\source\repos\SquadManager\SquadManager\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\fe_mm\source\repos\SquadManager\SquadManager\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
