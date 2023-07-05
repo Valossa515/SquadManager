@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
+      "Id": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\resetar.js",
+      "PackagePath": "staticwebassets\\js\\resetar.js"
+    },
+    {
       "Id": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\signUp.js",
       "PackagePath": "staticwebassets\\js\\signUp.js"
     },

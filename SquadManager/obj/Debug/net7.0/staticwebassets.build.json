@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ki3/ATIXuN4568i+2DErTA+DiwifTI/M+J7jgrEUkec=",
+  "Hash": "xmdXsQnTRl/MQCX/6VchyuwRUYzk4u7YmyIffE21Sk0=",
   "Source": "SquadManager",
   "BasePath": "_content/SquadManager",
   "Mode": "Default",
@@ -129,6 +129,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\resetar.js",
+      "SourceId": "SquadManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\",
+      "BasePath": "_content/SquadManager",
+      "RelativePath": "js/resetar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\resetar.js"
     },
     {
       "Identity": "C:\\Users\\fe_mm\\source\\repos\\SquadManager\\SquadManager\\wwwroot\\js\\signUp.js",

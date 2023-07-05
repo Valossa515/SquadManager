@@ -4,6 +4,7 @@ using FluentValidation.Results;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace API.Controllers
 {
@@ -48,6 +49,19 @@ namespace API.Controllers
         public IActionResult Forgot([FromBody] string email)
         {
             return Ok(new { response = "OK" });
+        }
+
+        [HttpPost("reset")]
+        public IActionResult Reset(UserModelReset user)
+        {
+            if (user.Password != null && user.ConfirmPassword != null)
+            {
+                return Ok(new { response = "OK" });
+            }
+            else
+            {
+                return Ok(new { response = "ERRO" });
+            }
         }
     }
 }
